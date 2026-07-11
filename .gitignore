@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Backend
+target/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.iml
